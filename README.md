@@ -14,22 +14,22 @@ This project was developed using Python 3.10+ in VS Code on Windows and MacOS. M
 
 Project Folder Map
 DS4002-CS3
-│
-├── data
-│   └── airlines_reviews.csv
-│
-├── scripts
-│   ├── sentiment_label.py
-│   ├── sentiment_by_airline.py
-│   ├── exploratory_plots.py
-│   └── chi_squared_test.py
-│
-├── supplemental_materials
-│
-├── CS3 Hook Airlines Reviews.pdf
-├── ase Study Rubric Airline Reviews.pdf
-├── README.md
-└── LICENSE
+
+data/
+   airlines_reviews.csv
+
+scripts/
+   sentiment_label.py
+   sentiment_by_airline.py
+   exploratory_plots.py
+   chi_squared_test.py
+
+supplemental_materials/
+
+CS3 Hook Airlines Reviews.pdf
+Case Study Rubric Airline Reviews.pdf
+README.md
+LICENSE
 Instructions for Reproducing Results
 
 First, clone the repository. Then, install the required libraries with:
