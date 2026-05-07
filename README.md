@@ -17,6 +17,7 @@ DS4002-CS3
 
 data/
    airlines_reviews.csv
+   airlines_reviews_with_sentiment.csv
 
 scripts/
    sentiment_label.py
@@ -30,6 +31,7 @@ CS3 Hook Airlines Reviews.pdf
 Case Study Rubric Airline Reviews.pdf
 README.md
 LICENSE
+
 Instructions for Reproducing Results
 
 First, clone the repository. Then, install the required libraries with:
